@@ -2,7 +2,7 @@
 <h3 align="left">I am a Font-end Developer </h3>
 
 <a href="https://shweb.me">
-  <img src="https://i.postimg.cc/WpyHhL8D/image-removebg-preview.png" alt="Farihatul Maria" align="right" />
+  <img src="https://i.postimg.cc/MG8TwFNN/image-removebg-preview.png" alt="Farihatul Maria" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at _Upwork_
