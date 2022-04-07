@@ -2,7 +2,7 @@
 <h3 align="left">I am a Font-end Developer </h3>
 
 <a href="https://shweb.me">
-  <img src="https://i.postimg.cc/Gp71mxpd/developer.png" alt="Sajjad Hossain" align="right" />
+  <img src="https://i.postimg.cc/WpyHhL8D/image-removebg-preview.png" alt="Farihatul Maria" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at _Upwork_
@@ -181,7 +181,7 @@
       </a>
       <br>Next JS
     </td>
-             <td align="center" width="96"> 
+         <td align="center" width="96"> 
       <a href="https://shweb.me" >
         <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
       </a>
@@ -192,4 +192,4 @@
 </table>
 <!-- links -->
 
-[linkedin]: https://www.linkedin.com/in/freelancewordpressdeveloper/ "Sajjad on LinkedIn"
+[linkedin]: https://www.linkedin.com/in/farihatul-maria/ "Maria on LinkedIn"
